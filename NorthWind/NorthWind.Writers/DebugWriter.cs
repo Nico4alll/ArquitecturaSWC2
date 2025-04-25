@@ -4,7 +4,7 @@ using System.Diagnostics;
 
 namespace NorthWind.Writers
 {
-    internal class DebugWriter : IUserActionWriter
+    public class DebugWriter : IUserActionWriter
     {
         public void Write(UserAction action)
         {
