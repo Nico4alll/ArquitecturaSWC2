@@ -4,7 +4,7 @@
   "success": true,
   "projectFilePath": "C:\\arquitectura_z\\Demo01\\MyLibrary\\MyLibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zemog\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+    "C:\\Users\\nico\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -40,7 +40,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zemog\\.nuget\\packages\\": {},
+    "C:\\Users\\nico\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -49,14 +49,14 @@
       "projectUniqueName": "C:\\arquitectura_z\\MyConsole\\MyConsole.csproj",
       "projectName": "MyConsole",
       "projectPath": "C:\\arquitectura_z\\MyConsole\\MyConsole.csproj",
-      "packagesPath": "C:\\Users\\zemog\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\nico\\.nuget\\packages\\",
       "outputPath": "C:\\arquitectura_z\\MyConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\zemog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
